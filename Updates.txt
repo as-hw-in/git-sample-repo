@@ -29,3 +29,6 @@ CA Certificate >  Don’t validate (if you are unable to change, leave as is).
 Identity > Enter ES Network ID 
 Password > ES network password 
 Test to verify connectivity
+
+
+ADD
