@@ -1,0 +1,35 @@
+esibpmtest1-Australia AU (BU ADMIN)
+esibpmtest2-Netherland NL (SUPER ADMIN) (BU ADMIN)
+esibpmtest3-France FR (SUPER ADMIN)(BU ADMIN)
+esibpmtest4-Netherland NL (BU ADMIN)
+esibpmtest5-Brazil BR (BU ADMIN)
+esibpmtest6-Spain ES (BU ADMIN)
+esibpmtest7-Global View GV (BU ADMIN)
+esibpmtest8-Poland PL (BU ADMIN)
+esibpmtest9-United Kingdom UK (BU ADMIN)
+esibpmtest10-China CH (BU ADMIN)
+esibpmtest11-Italy IT (BU ADMIN)
+esibpmtest12-United Kingdom UK (DEPARTMENT MANAGER)
+esibpmtest13- Brazil and Netherland (DEPARTMENT MANAGER)
+esibpmtest15-(PERFORMER)
+esibpmtest16-Netherland NL (DEPARTMENT MANAGER)
+esibpmtest17-India IN (BU ADMIN)
+esibpmtest18-Germany DE (BU ADMIN)
+esibpmtest19-Portugal PT (DEPARTMENT MANAGER)
+esibpmtest20-United Kingdom UK (DEPARTMENT MANAGER)
+*****************************************************************
+
+ap on Settings > Connections > Wifi > Advanced > Manage Networks
+Tap and hold on MYADPWIFI  > tap Forget 
+Drag down on the screen to force search
+Either choose MYADPWIFI from wifi list or choose Add Network as MYADPWIFI
+EAP method > PEAP
+Phase 2 authentication > MSCHAPV2
+CA Certificate >  Don’t validate (if you are unable to change, leave as is).
+Identity > Enter ES Network ID 
+Password > ES network password 
+Test to verify connectivity
+
+
+ADD
+TEST
